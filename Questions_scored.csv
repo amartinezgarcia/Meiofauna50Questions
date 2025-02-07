@@ -1,0 +1,119 @@
+;scores;question;ID;panel;rank;position;top5
+Q035;2257;How does meiofaunal biodiversity contribute to ecosystem function, integrity, and sustainability in the context of anthropogenic activities and global change? (Q035);Q035;Climate;Q50;1;climate1
+Q032;2210;Is meiofauna taxonomical and functional diversity important in assessing anthropogenic impacts and global change on ecosystems? (Q032);Q032;Climate;Q50;2;climate2
+Q019;2209;Are meiofauna good indicators of ecosystem quality status and functioning or do they need support from additional sources of evidence? (Q019);Q019;Climate;Q50;3;climate3
+Q192;2193;How can we promote the interest for meiofauna amongst students and young researchers thereby ensuring the future of the field? (Q192);Q192;Communication;Q50;4;Comm1
+Q026;2189;Can meiofauna be used to understand better how pollution impacts ecosystems as a whole? (Q026);Q026;Climate;Q50;5;climate4
+Q023;2187;How do meiofauna contribute to ecosystem resilience, particularly after a disturbance? (Q023);Q027;Climate;Q50;6;climate5
+Q013;2177;What are the most damaging impacts for meiofauna (for example extraction of resources, modification of habitat, creation of man-made structures, pollution, warming, ocean acidification, deoxygenation, etc.)? (Q013);Q013;Climate;Q50;7;climate6
+Q087;2162;Can sampling protocols be standardized to gather comparable distribution and ecological data worldwide? (Q087);Q087;Macro;Q50;8;Macro1
+Q102;2160;How and how much do meiofauna influence  nutrient cycling in different ecosystems? (Q102);Q102;Biogeom;Q50;9;Biogeom1
+Q005;2157;What are the main effects on meiofauna caused by anthropogenic pollution? (Q005);Q005;Climate;Q50;10;climate7
+Q022;2154;Are meiofaunal organisms a good tool in evaluating the success of habitat restoration projects in different ecosystems, for example, by assessing ecosystem function and health? (Q022);Q022;Climate;Q50;11;climate8
+Q046;2151;How can we efficiently and reliably estimate and measure meiofaunal species diversity? (Q046);Q046;Systematics;Q50;12;Systematics1
+Q088;2148;What are the main knowledge gaps in meiofaunal diversity? (Q088);Q088;Macro;Q50;13;Macro2
+Q029;2131;What are the roles of meiofauna in the natural restoration process that follow anthropogenic impacts? (Q029);Q029;Climate;Q50;14;climate9
+Q018;2130;Are meiofaunal species effective indicators for conventional pollutants and emerging contaminants (pharmaceuticals, pesticides, personal care products)? (Q018);Q018;Climate;Q50;15;climate10
+Q086;2126;Which are the main barriers for meiofaunal species dispersion/colonization? (Q086);Q086;Macro;Q50;16;Macro3
+Q028;2124;Are meiofauna more or less resilient compared to other benthic components in an ecosystem when under pressure of anthropogenic impacts and global change? (Q028);Q028;Climate;Q50;17;climate11
+Q001;2120;What are the main effects on meiofauna caused by climate change? (Q001);Q001;Climate;Q50;18;climate12
+Q187;2119;How can we further promote and/or sustain  the use of meiofauna as a tool or requirement in standard protocols for assessing and monitoring the quality status of ecosystems? (Q187);Q187;Communication;Q50;19;Comm2
+Q160;2110;How does connectivity among different habitats affect meiofaunal diversity patterns across different spatial scales? (Q160);Q160;Pop;Q50;20;Pop1
+Q042;2108;How species-rich are meiofauna on a regional and global scale? (Q042);Q042;Systematics;Q50;21;Systematics2
+Q044;2106;How can we strengthen collaboration to speed up the production of a joined global inventory of meiofaunal species in times of biodiversity crisis and global change? (Q044);Q044;Communication;Q50;22;Comm3
+Q030;2098;Do meiofauna in different habitats respond differently to similar anthropogenic impacts or global change? (Q030);Q030;Climate;Q50;23;climate13
+Q077;2093;What drives patterns of meiofaunal diversity over large-scale gradients? (Q077);Q077;Macro;Q50;24;Macro4
+Q016;2092;Are there suitable early warning meiofaunal organisms, i.e. organisms useful to detect early stages of anthropogenic activities and global change? (Q016);Q016;Climate;Q50;25;climate14
+Q036;2090;What functional traits or adaptations make meiofauna resistant against the impacts of anthropogenic activities and global change? (Q036);Q036;Climate;Q50;26;climate15
+Q093;2086;What do we know about the contribution of meiofauna to global carbon cycling and sequestration? (Q093);Q093;Biogeom;Q50;27;Biogeom2
+Q116;2084;What are the most critical roles of meiofauna in biogeochemical cycling and how do they differ between different ecosystems? (Q116);Q116;Biogeom;Q50;28;Biogeom3
+Q031;2083;"How will global change affect meiofauna distribution ranges and biogeography; for example through contraction, expansion or shifts? (Q031)";Q031;Climate;Q50;29;climate16
+Q170;2080;Are the ecological paradigms that we have developed for macroscopic organisms (for example, vertebrates, plants) transferable to a microscopic context, or do we need new theories and approaches to understand the population and community ecology of meiofauna? (Q170);Q170;Pop;Q50;30;Pop2
+Q054;2077;Do cosmopolitan meiofaunal species exist, do they represent complexes of cryptic species with narrower distributions, or are they just an artefact of poor taxonomy? (Q054);Q054;Systematics;Q50;31;Systematics3
+Q178;2072;How do meiofaunal animals sense and react to their environment? (Q178);Q178;Pop;Q50;32;Pop3
+Q015;2071;Which are the most accurate monitoring protocols and tools, including meiofauna-based metrics and indices, to quantify meiofaunal changes in response to anthropogenic impacts and global change? (Q015);Q015;Climate;Q50;33;climate17
+Q007;2069;How do anthropogenic activities and global change affect the different levels of biological organization (for example genes, proteins and other compounds, cells, organs, organisms, life stages, populations, communities) in meiofaunal communities, and how could they be use as indicators? (Q007);Q007;Climate;Q50;34;climate18
+Q118;2064;What is the relative importance of ecological interactions between meiofauna and prokaryotes, such as facilitation and predation, in ecosystem processes?  (Q118);Q118;Biogeom;Q50;35;Biogeom4
+Q034;2063;What is the best way to measure meiofauna diversity when assessing impacts from anthropogenic activities and global change? (Q034);Q034;Climate;Q50;36;climate19
+Q045;2063;What patterns of diversity exist and how do they vary among different groups of meiofauna? (Q045);Q045;Systematics;Q50;37;Systematics4
+Q078;2063;What drives patterns of meiofaunal phylogenetic and functional diversity up to global scales? (Q078);Q078;Macro;Q50;38;Macro5
+Q111;2060;Do meiofauna drive organic contaminant biodegradation and heavy metal distribution in different ecosystems? (Q111);Q111;Biogeom;Q50;39;Biogeom5
+Q175;2057;What is the relative contribution of abiotic features versus biotic interactions in determining community assembly in meiofauna? (Q175);Q175;Pop;Q50;40;Pop4
+Q109;2048;How and how much do meiofauna bioturbation affect transport, transformation, and burial of marine litter and microplastics? (Q109);Q109;Biogeom;Q50;41;Biogeom6
+Q085;2036;What are the environmental and biological mechanisms that drive dispersal distance in meiofaunal species? (Q085);Q085;Macro;Q50;42;Macro6
+Q080;2033;What is the relative contribution of local versus regional ecological factors on the distribution of meiofaunal organisms? (Q080);Q080;Macro;Q50;43;Macro7
+Q058;2030;Which community efforts are needed to dispel the taxonomic impediment and train new generations of meiobenthologists? (Q058);Q058;Communication;Q50;44;Comm4
+Q096;2030;How would aquatic ecosystems function without meiofauna and to what extent can meiofauna sustain rates of key biogeochemical processes alone? (Q096);Q096;Biogeom;Q50;45;Biogeom7
+Q120;2023;How and how much do meiofauna living in anoxic and sulfidic sediment layers influence ecosystem functions? (Q120);Q120;Biogeom;Q50;46;Biogeom8
+Q014;2018;Do permanent and temporary meiofauna respond differently to anthropogenic impact and global change and what are the implications of these differences in impact assessments and monitoring? (Q014);Q014;Climate;Q50;47;climate20
+Q002;2017;What are the main effects on meiofauna caused by microplastics? (Q002);Q002;Climate;Q50;48;climate21
+Q124;2017;Is the meiofauna a quantitively important food source for fish and other vertebrates?(Q124);Q124;Biogeom;Q50;49;Biogeom9
+Q003;2013;What are the main effects on meiofauna caused by physical disturbance? (Q003);Q003;Climate;Q50;50;climate22
+Q169;2011;Are meiofauna predators or gardeners of microbial resources? (Q169);Q169;Pop;no;51;Pop5
+Q062;2000;What do we know about current extinction trends in meiofaunal species? (Q062);Q062;Macro;no;52;Macro8
+Q068;1998;How have current (environmental) and past (Earth's history) processes impacted the distribution range size of meiofaunal species? (Q068);Q068;Macro;no;53;Macro9
+Q155;1998;What are the most important features that we must consider in defining the ecological niche of meiofaunal species? (Q155);Q155;Pop;no;54;Pop6
+Q122;1997;Is there a positive relationship between meiofaunal diversity and the rates of biogeochemical processes? (Q122);Q122;Biogeom;no;55;Biogeom10
+Q113;1995;How do meiofauna modify the exchange of nutrients, gas, and pollutants between interfaces?  (Q113);Q113;Biogeom;no;56;Biogeom11
+Q185;1995;What types of messages related to the health of our aquatic ecosystems and, more generally, of our planet can we convey with the scientific topic of meiofauna? (Q185);Q185;Communication;no;57;Comm5
+Q123;1989;How much meiofaunal carbon and nitrogen are channelled to higher trophic levels across habitats by uni- and multicellular meiofauna in benthic energy flows, and what are the key processes for such energy transfer?(Q123);Q123;Biogeom;no;58;Biogeom12
+Q164;1989;Are commonly used extraction and preservation methods underestimating the importance of some meiofaunal groups because their soft bodies are distorted or damaged during this process? (Q164);Q164;Pop;no;59;Pop7
+Q057;1988;How can we preserve the different groups of meiofauna for long-term storage to keep the reference material of a species available and valuable for future generations of meiofauna researchers? (Q057);Q057;Systematics;no;60;Systematics5
+Q055;1987;Which are the appropriate workflows and required technical advances to enhance the documentation of meiofauna for species descriptions, especially facing the often inevitable decay of the type material and the need to study meiofauna alive? (Q055);Q055;Systematics;no;61;Systematics6
+Q056;1980;How can we speed up formal description processes in taxonomy of meiofauna without compromising on quality? (Q056);Q056;Systematics;no;62;Systematics7
+Q052;1979;How can we ensure that environmental metabarcoding initiatives will be linked to formal species descriptions? (Q052);Q052;Systematics;no;63;Systematics8
+Q065;1974;How can we predict extinction risk in meiofauna? (Q065);Q065;Macro;no;64;Macro10
+Q177;1969;How to solve the intrinsic problem of measuring relevant environmental variables at appropriate (microscopic) resolutions to fully understand the population and community ecology of meiofauna? (Q177);Q177;Pop;no;65;Pop8
+Q081;1958;Can we predict the distribution range of a given meiofaunal species from its environmental tolerance? (Q081);Q081;Macro;no;66;Macro11
+Q105;1957;To what extent can meiofauna activity increase the resilience of geochemical processes, such as nutrient regeneration, in ecosystems where larger fauna is reduced or completely absent? (Q105);Q105;Biogeom;no;67;Biogeom13
+Q004;1948;What are the main effects on meiofauna caused by deep-sea mining? (Q004);Q004;Climate;no;68;climate23
+Q099;1945;To what extent do meiofauna modify ocean acidification? (Q099);Q099;Biogeom;no;69;Biogeom14
+Q063;1944;What are the main mechanisms of speciation in meiofauna, for example speciation with or without gene flow? (Q063);Q063;Macro;no;70;Macro12
+Q161;1939;Are meiofaunal organisms able to discriminate or be selective between food sources? (Q161);Q161;Biogeom;no;71;Biogeom15
+Q181;1933;What is the degree of taxonomic, functional, and phylogenetic convergence in meiofaunal communities? (Q181);Q181;Pop;no;72;Pop9
+Q104;1928;Do meiofauna attenuate eutrophication through stimulation of both denitrification and nitrogen burial? (Q104);Q104;Biogeom;no;73;Biogeom16
+Q142;1923;Do distant lineages evolve convergent morphological adaptations to similar habitat and ecological conditions? (Q142);Q142;Morpho;no;74;Morpho1
+Q090;1920;Can predictive models based on niche envelopes be used to model meiofaunal responses to environmental changes (for example, climate change)? (Q090);Q090;Macro;no;75;Macro13
+Q159;1914;What is the role of stochastic/extreme events in shaping population dynamics of meiofauna and community assembly processes?  (Q159);Q159;Pop;no;76;Pop10
+Q103;1913;How do the activities of meiofauna, and their interaction with uni- and multicellular organisms, affect the transport and fate of elements across different ecosystems? (Q103);Q103;Biogeom;no;77;Biogeom17
+Q043;1912;What percentage of the existing meiofaunal species have we already described? (Q043);Q043;Systematics;no;78;Systematics9
+Q091;1907;What is the currently most effective method to assess meiofaunal dispersal across habitat? (Q091);Q091;Macro;no;79;Macro14
+Q151;1901;What are the adaptive limits and potentials of small body size? (Q151);Q151;Morpho;no;80;Morpho2
+Q095;1888;How and how much do meiofauna bioturbation influence emission of greenhouse gases?(Q095);Q095;Biogeom;no;81;Biogeom18
+Q230;1879;How much fluctuation in effective population size do meiofaunal species experience as a function of life-history traits, abiotic perturbations, and ecological community interactions? (Q230);Q230;Genome;no;82;Genome1
+Q072;1878;Are species with smaller range size more endangered by anthropogenic impacts? (Q072);Q072;Macro;no;83;Macro15
+Q127;1875;To what degree are common traits in meiofauna the product of convergent evolution due to a shared ecology or constrained by the ancestral condition? (Q127);Q127;Morpho;no;84;Morpho3
+Q242;1868;How restricted is gene flow among populations of meiofaunal species and what are the principal sources of gene flow restriction? (Q242);Q242;Genome;no;85;Genome2
+Q041a;1864;How can we define meiofauna in a biologically meaningful way? (Q041a);Q041a;Systematics;no;86;Systematics10
+Q119;1859;Does the strength of meiofauna-prokaryote interactions change in different ecosystems along latitudinal, altitudinal, or bathymetric gradients? (Q119);Q119;Biogeom;no;87;Biogeom19
+Q238;1848;What kind and magnitude of genomic differences distinguish cryptic meiofaunal species? (Q238);Q238;Genome;no;88;Genome3
+Q069;1845;Is there any geographical pattern in range size distribution for meiofaunal species or clades (for example Rapoport's rule)? (Q069);Q069;Macro;no;89;Macro16
+Q133;1843;Are there any behavioural adaptations (aggregation, patchiness, negative phototaxis) that all/most meiofaunal animals have in common? (Q133);Q133;Morpho;no;90;Morpho4
+Q071;1841;Can we identify congruent centres of endemism across different meiofaunal groups? (Q071);Q071;Macro;no;91;Macro17
+Q132;1837;What is the role of intra-specific variability in adaptive change? (Q132);Q132;Morpho;no;92;Morpho5
+Q129;1830;What are the evolutionary and ecological processes that favour reduction of body size? (Q129);Q129;Morpho;no;93;Morpho6
+Q174;1829;Does the ubiquity of some meiofaunal species result from the presence of convergent traits? (Q174);Q174;Morpho;no;94;Morpho7
+Q064;1827;Do meiofaunal lineages have temporal and geographical differences in the net diversification rates and what would drive them? (Q064);Q064;Macro;no;95;Macro18
+Q189;1816;Can we use meiofaunal research to improve human life, for example by providing us pharmacological or bioactive molecules, or biomaterials  or by inspiring use developing new technologies? (Q189);Q189;Communication;no;96;Comm6
+Q053;1805;How can the exponentially increasing amount of metagenomic and metabarcoding data be harnessed when framing species hypotheses? (Q053);Q053;Systematics;no;97;Systematics11
+Q131;1805;What are the factors that drive the occurrence of specific reproductive strategies across meiofaunal lineages? (Q131);Q131;Morpho;no;98;Morpho8
+Q247;1805;Are there consistent geographical (for example, latitudinal) patterns in genome evolution across different meiofaunal taxa? (Q247);Q247;Genome;no;99;Genome4
+Q049;1804;How can we implement robust delimitations of species that are grounded in evolutionary biology yet practical? (Q049);Q049;Systematics;no;100;Systematics12
+Q250;1798;What biological factors (for example generation time, mutation rate, population size), if any, explain the observed long branch lengths seen for meiofaunal taxa in many molecular phylogenies?  (Q250);Q250;Genome;no;101;Genome5
+Q128;1792;How are morphological innovation and morphological stasis affected/constrained by small body size? (Q128);Q128;Morpho;no;102;Morpho9
+Q232;1790;How commonly do meiofauna participate in the construction of a hologenome through microbial symbioses, and what are the typical taxonomic, functional, and evolutionary characteristics of such symbioses? (Q232);Q232;Genome;no;103;Genome6
+Q171;1789;How does temperature affect the body size of meiofaunal species? (Q171);Q171;Pop;no;104;Pop11
+Q249;1786;When high-quality genomes are available from all major meiofaunal lineages, what will genome-scale phylogenies and comparative genomic analyses be able to tell us about the morphology and body size of metazoan ancestors? (Q249);Q249;Genome;no;105;Genome7
+Q182;1781;How do meiofaunal species avoid competition between their adult and juvenile stages? (Q182);Q182;Pop;no;106;Pop12
+Q130;1772;How does small body size impact the tempo and mode for adaptive change, regardless of phylogenetic constraints? (Q130);Q130;Morpho;no;107;Morpho10
+Q134;1770;What promotes direct development in meiofaunal animals, especially in taxa whose close relatives have free swimming larvae? (Q134);Q134;Morpho;no;108;Morpho11
+Q146;1760;Which morphological features, other than small body size, are shared across different lineages of secondarily small organisms? (Q146);Q146;Morpho;no;109;Morpho12
+Q241;1754;What are the relative contributions of genetic drift and natural selection to the genetic variation found across different meiofaunal lineages over evolutionary time scales, particularly when accounting for different ecological and life history factors? (Q241);Q241;Genome;no;110;Genome8
+Q248;1747;How common is sexual selection and sexual conflict in meiofaunal organisms of diverse reproductive modes, and how do these processes contribute to their molecular evolution? (Q248);Q248;Genome;no;111;Genome9
+Q084;1746;What are the most phylogenetically conserved dimensions of the meiofaunal species’ niche? (Q084);Q084;Macro;no;112;Macro19
+Q224;1746;Do the genomes of meiofaunal species show convergence in genetic features or genomic structure? (Q224);Q224;Genome;no;113;Genome10
+Q246;1731;How well do the unique ecological traits of meiofauna predict their genome biology, and how well are these predictions reflected in other groups with which meiofauna share some but not all of these ecological characteristics (for example small-bodied zooplankton, or large-bodied infauna)? (Q246);Q246;Genome;no;114;Genome11
+Q092;1727;What are the oxygen respiration rates of different meiofaunal taxa? (Q092);Q092;Biogeom;no;115;Biogeom20
+Q235;1652;How commonly does hybridization and introgression between sibling and more distantly related species shape meiofaunal genomes? (Q235);Q235;Genome;no;116;Genome12
+Q143;1642;Are there common genomic principles that drive body elongation and/or diameter reduction in meiofauna? (Q143);Q143;Morpho;no;117;Morpho13
+Q140;1640;Is the process of secondary miniaturization irreversible? (Q140);Q140;Morpho;no;118;Morpho14
