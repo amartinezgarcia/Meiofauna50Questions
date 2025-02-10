@@ -17,6 +17,9 @@ Questions_scored.csv — data. Contains the results of the poles and information
 
 Answers_short.csv - data. Contains the answers.
 
+TableS1.xlsx - full list of questions
+TableS2.xlsx - metadata of the poles
+
 The shape file used to produce the map can be obtained here: https://www.arcgis.com/home/item.html?id=cc823903c99d4a8a869479c6e5a9b0cb
 
 
